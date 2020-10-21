@@ -1,0 +1,4 @@
+{
+  "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle",
+  "pixelWidth": "//div[@id='header-spring']//h1//*[local-name()='svg']"
+}

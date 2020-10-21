@@ -1,0 +1,6 @@
+{
+  "url": "https://www.flipkart.com/",
+  "closeButton":"//button[@class='_2AkmmA _29YdH8']",
+  "moreActionHover": "//div[@class='_2aUbKa']",
+  "sellOnFlipkartLink": "//div[contains(text(),'Sell on Flipkart')]"
+}

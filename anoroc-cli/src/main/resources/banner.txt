@@ -1,0 +1,11 @@
+             ___
+    o O O   /   \    _ _      __ _       _ _     ___      __
+   o        | - |   | ' \    / _` |     | '_|   / _ \    / _|
+  TS__[O]   |_|_|   |_||_|   \__,_|    _|_|_    \___/    \__|_
+ {======| _|"""""| _|"""""| _|"""""| _|"""""| _|"""""| _|"""""|
+./o--000' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-'
+
+                            v1.0
+            Functional testing framework and debug tool
+            Credits: Publicis Sapient ETO team
+            Support: anoroc-support@publicissapient.com

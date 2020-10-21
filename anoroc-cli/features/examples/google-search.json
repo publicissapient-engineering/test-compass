@@ -1,0 +1,6 @@
+{
+  "url": "http://www.google.com",
+  "search_term": "//input[@name='q']",
+  "search_button": "//div[@class='FPdoLc tfB0Bf']//input[@name='btnK']",
+  "search_results": "//span[@id='xjs']//div"
+}

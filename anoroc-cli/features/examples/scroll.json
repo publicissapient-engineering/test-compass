@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle",
+  "findElement": "//h2[@id='cli']",
+  "empty": " ",
+  "pixel": "3000"
+}

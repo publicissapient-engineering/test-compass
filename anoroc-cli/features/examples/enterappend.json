@@ -1,0 +1,8 @@
+{
+  "url": "https://www.google.com/",
+  "Text": "//input[@name='q']",
+  "AppendText":"//div[@class='a4bIc']//input[@name='q']",
+  "searchButton": "//div[@class='FPdoLc tfB0Bf']//input[@name='btnK']",
+  "searchButton1": "//span[@class='z1asCe MZy1Rb']//*[local-name()='svg']"
+
+}

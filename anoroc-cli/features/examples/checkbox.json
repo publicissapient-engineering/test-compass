@@ -1,0 +1,10 @@
+{
+  "url": "https://the-internet.herokuapp.com/",
+  "checkboxLink":"//a[contains(text(),'Checkboxes')]",
+  "checkbox2": "//body//input[2]",
+  "extJsUrl": "https://examples.sencha.com/extjs/7.0.0/examples/kitchensink/?classic#form-fields",
+  "extJsCheckboxElement": "//label[@id='checkbox-1049-boxLabelEl']",
+  "extJsCheckBoxGrp": "//div[@class='thumbnail-icon icon-form-checkboxgroup']",
+  "yatraUrl": "https://www.yatra.com/",
+  "nonStopFlightCheckBox": "//div[@class='dflex filter-box']//a[1]"
+}
