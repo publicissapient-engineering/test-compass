@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.publicissapient.anoroc</groupId>
+    <artifactId>anoroc-parser</artifactId>
+    <version>1.0</version>
+    <name>anoroc-parser</name>
+    <description>Gherkins feature file parser</description>
+
+    <properties>
+        <java.version>1.8</java.version>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <lombok.version>1.18.12</lombok.version>
+        <assertj.core.java8.version>1.0.0m1</assertj.core.java8.version>
+        <gherkin.version>10.0.0</gherkin.version>
+        <junit.jupiter.version>5.6.0</junit.jupiter.version>
+        <spring.boot.version>2.2.6.RELEASE</spring.boot.version>
+        <cucumber.java8.version>5.5.0</cucumber.java8.version>
+        <anoroc.core.version>1.0</anoroc.core.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring.boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core-java8</artifactId>
+            <version>${assertj.core.java8.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>gherkin</artifactId>
+            <version>${gherkin.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.publicissapient.anoroc</groupId>
+            <artifactId>anoroc-core</artifactId>
+            <version>${anoroc.core.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <scope>test</scope>
+            <version>${junit.jupiter.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>

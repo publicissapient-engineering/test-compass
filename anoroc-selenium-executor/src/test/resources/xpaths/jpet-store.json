@@ -1,0 +1,13 @@
+{
+  "url": "https://petstore.octoperf.com/",
+  "enter_store": "//a[contains(text(),'Enter the Store')]",
+  "sign_in": "//a[contains(text(),'Sign In')]",
+  "fish_link": " //div[@id='Content']//a[1]//img[1]",
+  "fish_h2": "//h2[contains(text(),'Fish')]",
+  "angel_fish": "//a[contains(text(),'FI-SW-01')]",
+  "angel_fish_h2": "//h2[contains(text(),'Angelfish')]",
+  "large_angel_fish_link": "//a[contains(text(),'EST-1')]",
+  "large_angle_fish_text": "//font[contains(text(),'Large')]"
+}
+
+

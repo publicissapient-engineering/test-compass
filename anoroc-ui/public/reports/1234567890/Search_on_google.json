@@ -1,0 +1,251 @@
+[ {
+  "elements" : [ {
+    "keyword" : "Scenario",
+    "type" : "scenario",
+    "name" : "Successful search for some terms on google",
+    "steps" : [ {
+      "keyword" : "Given ",
+      "name" : "that I OPEN [url] to do search",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 2015000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "that_I_OPEN_[url]_to_do_search"
+      }
+    }, {
+      "keyword" : "And ",
+      "name" : "I ENTER hello in the text box",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 134000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_ENTER_<search_term>_in_the_text_box"
+      }
+    }, {
+      "keyword" : "When ",
+      "name" : "I CLICK [search_button] on the search page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 1700000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_CLICK_[search_button]_on_the_search_page"
+      }
+    }, {
+      "keyword" : "Then ",
+      "name" : "I should SEE [search_results] on the result page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 119000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_should_SEE_[search_results]_on_the_result_page"
+      }
+    } ]
+  }, {
+    "keyword" : "Scenario",
+    "type" : "scenario",
+    "name" : "Successful search for some terms on google",
+    "steps" : [ {
+      "keyword" : "Given ",
+      "name" : "that I OPEN [url] to do search",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 794000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "that_I_OPEN_[url]_to_do_search"
+      }
+    }, {
+      "keyword" : "And ",
+      "name" : "I ENTER hi in the text box",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 106000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_ENTER_<search_term>_in_the_text_box"
+      }
+    }, {
+      "keyword" : "When ",
+      "name" : "I CLICK [search_button] on the search page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 1450000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_CLICK_[search_button]_on_the_search_page"
+      }
+    }, {
+      "keyword" : "Then ",
+      "name" : "I should SEE [search_results] on the result page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 219000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_should_SEE_[search_results]_on_the_result_page"
+      }
+    } ]
+  }, {
+    "keyword" : "Scenario",
+    "type" : "scenario",
+    "name" : "Successful search for some terms on google",
+    "steps" : [ {
+      "keyword" : "Given ",
+      "name" : "that I OPEN [url] to do search",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 346000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "that_I_OPEN_[url]_to_do_search"
+      }
+    }, {
+      "keyword" : "And ",
+      "name" : "I ENTER sapient in the text box",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 111000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_ENTER_<search_term>_in_the_text_box"
+      }
+    }, {
+      "keyword" : "When ",
+      "name" : "I CLICK [search_button] on the search page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 1151000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_CLICK_[search_button]_on_the_search_page"
+      }
+    }, {
+      "keyword" : "Then ",
+      "name" : "I should SEE [search_results] on the result page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 128000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_should_SEE_[search_results]_on_the_result_page"
+      }
+    } ]
+  }, {
+    "keyword" : "Scenario",
+    "type" : "scenario",
+    "name" : "Successful search for some terms on google",
+    "steps" : [ {
+      "keyword" : "Given ",
+      "name" : "that I OPEN [url] to do search",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 679000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "that_I_OPEN_[url]_to_do_search"
+      }
+    }, {
+      "keyword" : "And ",
+      "name" : "I ENTER good one in the text box",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 88000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_ENTER_<search_term>_in_the_text_box"
+      }
+    }, {
+      "keyword" : "When ",
+      "name" : "I CLICK [search_button] on the search page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 2458000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_CLICK_[search_button]_on_the_search_page"
+      }
+    }, {
+      "keyword" : "Then ",
+      "name" : "I should SEE [search_results] on the result page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 61000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_should_SEE_[search_results]_on_the_result_page"
+      }
+    } ]
+  }, {
+    "keyword" : "Scenario",
+    "type" : "scenario",
+    "name" : "Successful search for some terms on google",
+    "steps" : [ {
+      "keyword" : "Given ",
+      "name" : "that I OPEN [url] to do search",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 375000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "that_I_OPEN_[url]_to_do_search"
+      }
+    }, {
+      "keyword" : "And ",
+      "name" : "I ENTER india in the text box",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 195000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_ENTER_<search_term>_in_the_text_box"
+      }
+    }, {
+      "keyword" : "When ",
+      "name" : "I CLICK [search_button] on the search page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 2036000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_CLICK_[search_button]_on_the_search_page"
+      }
+    }, {
+      "keyword" : "Then ",
+      "name" : "I should SEE [search_results] on the result page",
+      "result" : {
+        "status" : "Passed",
+        "duration" : 57000000,
+        "error_message" : null
+      },
+      "match" : {
+        "location" : "I_should_SEE_[search_results]_on_the_result_page"
+      }
+    } ]
+  } ],
+  "keyword" : "Feature",
+  "name" : "Search on google",
+  "uri" : ""
+} ]

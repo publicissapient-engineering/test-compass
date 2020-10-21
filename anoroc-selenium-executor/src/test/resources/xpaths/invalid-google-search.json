@@ -1,0 +1,6 @@
+{
+  "url": "http://",
+  "search_term": "//input[@name='search']",
+  "search_button": "//div[@class='FPdoLc tfB0Bf']//input[@name='btnK']",
+  "search_results": "//span[@id='xjs']//div"
+}

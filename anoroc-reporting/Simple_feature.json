@@ -1,0 +1,27 @@
+[
+  {
+    "elements": [
+      {
+        "name": "Simple Scenario",
+        "keyword": "Scenario",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": "99107447000",
+              "status": "passed"
+            },
+            "name": "Given that simple login",
+            "match": {
+              "location": "Given that simple login"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Simple feature",
+    "keyword": "Feature",
+    "uri": "Simple feature"
+  }
+]
