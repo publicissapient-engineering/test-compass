@@ -1,0 +1,12 @@
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (1,'Sample Run 1','/reports/123456',0,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (2,'Sample Run 2','/reports/123456',0,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (3,'Sample Run 3','/reports/123456',0,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (4,'Sample Run 4','/reports/123456',0,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (5,'Sample Run 5','/reports/123456',0,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (6,'Sample Run 6','/reports/123456',0,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (7,'Sample Run 7','/reports/123456',1,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (8,'Sample Run 8','/reports/123456',1,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (9,'Sample Run 9','/reports/123456',1,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (10,'Sample Run 10','/reports/123456',1,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (11,'Sample Run 11','/reports/123456',1,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);
+INSERT INTO RUNS (id,details,report_url,status,run_type,created_at,updated_at,environment_id) VALUES (12,'Sample Run 12','/reports/123456',1,0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,1);

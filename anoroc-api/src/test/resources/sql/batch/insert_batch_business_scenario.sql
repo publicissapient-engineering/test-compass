@@ -1,0 +1,1 @@
+insert into batch_business_scenario(batch_id, business_scenario_id) values(1,1);

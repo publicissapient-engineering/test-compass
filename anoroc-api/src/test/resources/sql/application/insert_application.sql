@@ -1,0 +1,1 @@
+INSERT INTO application (id, name, created_at, updated_at) VALUES (1,'Application 1',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP)

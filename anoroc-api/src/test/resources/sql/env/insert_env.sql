@@ -1,0 +1,1 @@
+insert into environment(id, name, karate_content,anoroc_content, created_at, updated_at) values(1, 'dev', '{"karate":{},"cats":{}}','{"karate":{},"cats":{}}',current_timestamp, current_timestamp);

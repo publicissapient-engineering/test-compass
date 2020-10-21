@@ -1,0 +1,9 @@
+{
+  "data": {
+    "url": "https://google.com",
+    "inputXpath": "input[name=q]",
+    "inputText": "karate dsl",
+    "submitButton": "input[name=btnI]",
+    "newUrl" : "https://github.com/intuit/karate"
+  }
+}

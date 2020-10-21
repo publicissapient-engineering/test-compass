@@ -1,0 +1,1 @@
+ALTER TABLE environment ADD COLUMN settings_content TEXT  default null;

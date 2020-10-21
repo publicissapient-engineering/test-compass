@@ -1,0 +1,1 @@
+DELETE FROM batch_business_scenario;

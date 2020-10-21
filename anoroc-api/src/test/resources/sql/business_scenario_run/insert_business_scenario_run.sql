@@ -1,0 +1,1 @@
+insert into business_scenario_run(run_id, business_scenario_id) values(1, 1);
