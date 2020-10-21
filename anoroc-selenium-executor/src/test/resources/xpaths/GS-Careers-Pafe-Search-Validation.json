@@ -1,0 +1,21 @@
+{
+  "url": "https://globalcareers-goldmansachs.icims.com/jobs/intro?hashed=-435624197&mobile=true&width=360&height=612&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330",
+  "search_term": "//*[@id='jsb_f_keywords_i']",
+  "search_button": "//input[@id='jsb_form_submit_i']",
+  "Division": "//select[@id='jsb_f_position_s']",
+  "Level": "//select[@id='jsb_f_positiontype_s']",
+  "Submit": "//input[@id='jsb_form_submit_i']",
+  "Location": "//select[@id='jsb_f_location_s']",
+
+
+  "AnyKeyword": "//*[@id='keyword_any']",
+  "searchResults": "//h2[contains(text(),'Search Results')]",
+  "addresses": "//a[contains(@href, 'addresses')]",
+  "newAddress": "//div[@id='ya-myab-plus-address-icon']",
+  "country": "//select[@id='address-ui-widgets-countryCode-dropdown-nativeId']",
+  "fullName": "//input[@id='address-ui-widgets-enterAddressFullName']",
+  "state": "//select[@id='address-ui-widgets-enterAddressStateOrRegion-dropdown-nativeId']"
+
+
+
+}

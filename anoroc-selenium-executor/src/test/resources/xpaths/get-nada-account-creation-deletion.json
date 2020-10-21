@@ -1,0 +1,8 @@
+{
+  "url": "http://getnada.com",
+  "add_inbox": "//*[@id=\"app\"]/add_inbox",
+  "inbox_name": "//*[@id=\"app\"]/inbox_name",
+  "accept": "//*[@id=\"app\"]/accept",
+  "my_temp_inbox": "//*[@id=\"app\"]/my_temp_inbox",
+  "my_temp_email": "//*[@id=\"app\"]/my_temp_email"
+}
