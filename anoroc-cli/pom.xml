@@ -9,13 +9,7 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/>
     </parent>
-
-    <groupId>com.publicissapient.anoroc</groupId>
-    <artifactId>anoroc-cli</artifactId>
-    <version>1.0</version>
-    <name>anoroc-cli</name>
-    <description>Anoroc CLI for functional testing</description>
-
+ 
     <properties>
         <java.version>1.8</java.version>
         <anoroc.version>1.0</anoroc.version>
