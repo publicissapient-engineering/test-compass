@@ -100,10 +100,7 @@ public class FeatureParserTest {
                         .withInstruction("that I OPEN [url]"),
                 StepDefinition
                         .build()
-                        .withKeyword("And ")
-                        .withInstruction("I ENTER <username> <password>")
-                        .withData("username", "venki@ps.com")
-                        .withData("password", "password1"),
+                        
                 StepDefinition
                         .build()
                         .withKeyword("And ")
